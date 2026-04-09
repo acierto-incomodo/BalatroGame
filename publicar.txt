@@ -1,0 +1,10 @@
+Build.zip
+juego.ico
+juego.jpg
+juego.png
+JUEGO_Launcher_Installer.exe
+launcher_win.exe
+ReleaseNotes.txt
+Version.txt
+version_win_launcher.txt
+7zr.exe
